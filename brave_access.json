@@ -1,8 +1,6 @@
 {
-  "allowed_devices": [
-    "569e5ad6-2d42-4153-9037-a73f6737424a"
-  ],
+  "allowed_devices": [],
   "pending_requests": [],
-  "last_updated": "2025-10-01T20:58:27.840650",
+  "last_updated": "2025-10-01T20:58:36.438339",
   "updated_by": "admin_tool"
 }
