@@ -1,10 +1,9 @@
 {
   "allowed_devices": [
-    "الاسم: admin\nالسيريال: 5583fe8011ea5fa0eb61eb7f40d91bef",
-    "5583fe8011ea5fa0eb61eb7f40d91bef"
+    "الاسم: admin\nالسيريال: 5583fe8011ea5fa0eb61eb7f40d91bef"
   ],
   "pending_requests": [],
-  "last_updated": "2026-08-23T23:05:05.005785",
+  "last_updated": "2026-08-23T23:07:33.843890",
   "updated_by": "admin_tool_gui",
   "blocked_devices": [],
   "device_names": {}
