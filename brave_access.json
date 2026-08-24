@@ -1,14 +1,11 @@
 {
   "allowed_devices": [
     "5583fe8011ea5fa0eb61eb7f40d91bef",
-    "da95ce56f7e3b3326a76b6f7605db78b",
     "fd2286b4652c2e349fd74970315a0fb6"
   ],
   "pending_requests": [],
-  "last_updated": "2026-08-24T10:20:42.231870",
-  "updated_by": "admin_tool",
+  "last_updated": "2026-08-24T12:29:09.757530",
+  "updated_by": "admin_tool_gui",
   "blocked_devices": [],
-  "device_names": {
-    "da95ce56f7e3b3326a76b6f7605db78b": "asraa"
-  }
+  "device_names": {}
 }
