@@ -1,11 +1,10 @@
 {
   "allowed_devices": [
-    "5583fe8011ea5fa0eb61eb7f40d91bef",
     "fd2286b4652c2e349fd74970315a0fb6",
     "ca25d5949f8fe0618e6958e636d39c8a"
   ],
   "pending_requests": [],
-  "last_updated": "2026-08-24T12:29:19.264275",
+  "last_updated": "2026-09-01T14:03:32.414505",
   "updated_by": "admin_tool_gui",
   "blocked_devices": [],
   "device_names": {}
