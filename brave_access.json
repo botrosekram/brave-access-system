@@ -1,10 +1,11 @@
 {
   "allowed_devices": [
     "748f9a9fb87ffc18b4cfad3f1458c6ea",
-    "a56ff234abe0e5171ab6feb15852f6e3"
+    "a56ff234abe0e5171ab6feb15852f6e3",
+    "الاسم: botros\nالسيريال: 5583fe8011ea5fa0eb61eb7f40d91bef"
   ],
   "pending_requests": [],
-  "last_updated": "2026-09-04T16:05:30.491978",
+  "last_updated": "2026-09-04T18:44:42.856398",
   "updated_by": "admin_tool_gui",
   "blocked_devices": [],
   "device_names": {}
