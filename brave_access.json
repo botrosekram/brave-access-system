@@ -1,10 +1,11 @@
 {
   "allowed_devices": [
     "655ca65299bfafdce3b98f12dcd7c502",
-    "f00f4f04f7e0d080afa2d5797362a048"
+    "f00f4f04f7e0d080afa2d5797362a048",
+    "الاسم: rogena\nالسيريال: 076e0ec6b3595e8251ecc27c1e9c3209"
   ],
   "pending_requests": [],
-  "last_updated": "2026-09-17T14:16:48.460939",
+  "last_updated": "2026-09-17T14:51:45.604404",
   "updated_by": "admin_tool_gui",
   "blocked_devices": [],
   "device_names": {}
